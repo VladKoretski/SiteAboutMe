@@ -17,5 +17,5 @@
 * Diving
   
 ## Contact Information:
-**Social-Media: [**VK**](https://vk.com/id390404741)  
+**Social-Media:**[VK](https://vk.com/id390404741)  
 **Phone:**+7(999)999-99-99
