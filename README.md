@@ -2,7 +2,7 @@
 
 ![my photo (https://github.com/VladKoretski/SiteAboutMe/blob/main/Pics/me.jpg)]
 
-**Born:** *11.05.1973*
+**Born:** *11.05.1973*  
 **Education:** *PhD (Math and Physics), MA (HR-management)*
 
 ## Career
@@ -17,5 +17,5 @@
 * Diving
   
 ## Contact Information:
-**Social-Media: [**VK**](https://vk.com/id390404741)
+**Social-Media: [**VK**](https://vk.com/id390404741)  
 **Phone:**+7(999)999-99-99
