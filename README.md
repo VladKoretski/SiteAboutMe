@@ -1,6 +1,6 @@
 # Vladimir Koretckii
 
-[my photo (C:\Users\YU SERVICE\Desktop\AboutMe\Pic\me.jpg)]
+![my photo (https://disk.yandex.ru/i/U07ohW-NCqQwnQ)]
 
 **Born:** *11.05.1973*
 **Education:** *PhD (Math and Physics), MA (HR-management)*
@@ -17,5 +17,5 @@
 * Diving
   
 ## Contact Information:
-[VK](https://vk.com/id390404741)
-Phone
+**Social-Media: [**VK**](https://vk.com/id390404741)
+**Phone:**+7(999)999-99-99
