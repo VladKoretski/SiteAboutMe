@@ -1,6 +1,6 @@
 # Vladimir Koretckii
 
-![my photo (https://disk.yandex.ru/i/U07ohW-NCqQwnQ)]
+![my photo (https://github.com/VladKoretski/SiteAboutMe/blob/main/Pics/me.jpg)]
 
 **Born:** *11.05.1973*
 **Education:** *PhD (Math and Physics), MA (HR-management)*
