@@ -1,6 +1,6 @@
 # Vladimir Koretckii
 
-!(/main/Pics/me1.jpg)
+![](/main/Pics/me1.jpg)
 
 **Born:** *11.05.1973*  
 **Education:** *PhD (Math and Physics), MA (HR-management)*
